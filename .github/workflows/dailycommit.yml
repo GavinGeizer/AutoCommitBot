@@ -2,7 +2,7 @@ name: Gavin's Totally real commit
 
 on:
   schedule:
-    - cron: '0 5 * * *' 
+    - cron: '10 17 * * *' 
 jobs:
   commit:
     runs-on: ubuntu-latest
